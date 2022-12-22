@@ -1,0 +1,79 @@
+.header{
+    padding: 20px;
+    background-color: white;
+}
+
+.n{
+    padding: 10px;
+    background-color: white;
+    border-bottom-style: solid;
+    border-width: 1px;
+    color: gray;
+    width: 80%;
+    margin: auto;
+}
+
+img{
+    width: 40px;
+    margin-left: 10px;
+}
+
+.avp{
+    padding: 10px;
+}
+
+.snakeTitle{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.pa{
+    margin-left: 50%;
+}
+
+.nave{
+    margin: auto;
+    
+}
+
+
+@media screen and (max-width: 680px) {
+	.collapse{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .b{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+	img{
+        margin-top: 10px;
+    }
+    svg{
+        margin-top: 20px;
+    }
+    .s{
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+.s{
+    display: flex;
+}
+
+.f{
+    font-size: 12px; 
+}
+
+.edition{
+    font-weight: bold;
+    color: orange;
+}
+
+.cal{
+    width: 50px;
+}
