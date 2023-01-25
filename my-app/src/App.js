@@ -1,5 +1,4 @@
 import React from 'react'
-import './app.css'
 import Page from './components/stepimages/page'
 
 
